@@ -1,5 +1,5 @@
 
-[]!(https://github.com/SahilSheikh12299/Real-estate-price-predicting-web-app/blob/main/Real%20estate%20price%20prediction/Web%20App%20Preview.png)
+![Preview](https://github.com/SahilSheikh12299/Real-estate-price-predicting-web-app/blob/main/Real%20estate%20price%20prediction/Web%20App%20Preview.png)
 
 
 
